@@ -9,6 +9,8 @@ Returns size & space used for all databases.
 
 Usage:
 exec dbo.get_database_size_space_used
+
+20241211 - MJ: Added a comment for training purposes.
 ***************************/
 
 
